@@ -55,4 +55,4 @@ This lesson we really want you to have a general understanding of how Rails work
 
 * Five minute [video](http://www.youtube.com/watch?v=7_LPdttKXPc) on how the internet works.
 
-* Follow this Rails Girls tutorials here: http://guides.railsgirls.com/app/
+* Follow this Rails Girls tutorials here: [RailsGirls](http://guides.railsgirls.com/app)
